@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\bin\Debug\Prueba 1.exe.config
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\bin\Debug\Prueba 1.exe
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\bin\Debug\Prueba 1.pdb
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba_1.Form1.resources
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba_1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.exe
+C:\Users\Admin\source\repos\Prueba 1\Prueba 1\obj\Debug\Prueba 1.pdb
